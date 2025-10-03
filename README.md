@@ -17,6 +17,7 @@ Claude Code is Anthropic's official CLI tool that provides an interactive comman
 ## Prerequisites
 
 - **Node.js 18+**: Required for Claude Code CLI
+  - Install from [https://nodejs.org/en/download](https://nodejs.org/en/download)
 - **npm**: Node package manager (usually included with Node.js)
 - **AMD LLM API Key**: Valid API key for AMD's LLM Gateway
 - **Linux/Unix Environment**: Script designed for bash shell environments
